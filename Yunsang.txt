@@ -1,0 +1,6 @@
+git add .
+git commit -m "created goodbye line"
+git status
+git log
+git log --oneline
+
