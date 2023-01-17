@@ -1,7 +1,7 @@
 git add .
 git commit -m "created goodbye line"
-git status
+
+git stauts
 git log
 git log --oneline
 
-goodbye from Yunsang
